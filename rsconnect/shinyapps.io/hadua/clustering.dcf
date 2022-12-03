@@ -1,0 +1,13 @@
+name: clustering
+title: clustering
+username:
+account: hadua
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7803313
+bundleId: 6586393
+url: https://hadua.shinyapps.io/clustering/
+when: 1670079690.15103
+lastSyncTime: 1670079690.15106
+asMultiple: FALSE
+asStatic: FALSE
